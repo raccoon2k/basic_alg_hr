@@ -3,6 +3,6 @@ prices = list(map(int, input().split()))
 balance = int(input())
 total = int((sum(prices) - prices[k]) / 2)
 if balance == total:
-    print('Bon Appetit') 
+    print('Bon Appetit')
 else:
-    print(balance-total)
+    print(balance - total)
