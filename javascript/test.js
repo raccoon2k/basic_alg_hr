@@ -1,3 +1,9 @@
 'use strict'
 
-let stdin = process.stdin()
+const rl = createInterface({
+    input: process.stdin,
+    output: process.stdout
+})
+rl.
+
+rl.close()
