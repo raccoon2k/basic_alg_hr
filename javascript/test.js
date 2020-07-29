@@ -1,9 +1,8 @@
 'use strict'
+const readline = require('readline')
 
-const rl = createInterface({
+const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout
 })
-rl.
-
-rl.close()
+rl.on('line', (line) => console.log(line))
