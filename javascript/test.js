@@ -1,2 +1,3 @@
-let a = "helllo"
-console.log(typeof(a))
+'use strict'
+
+let stdin = process.stdin()
