@@ -5,3 +5,4 @@ javascript/package-lock.json
 javascript/node_modules
 javascript/package.json
 javascript/.eslintrc.json
+.vscode/launch.json
